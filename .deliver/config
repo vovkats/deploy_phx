@@ -4,7 +4,7 @@ BUILD_HOST="91.226.81.140"
 BUILD_USER="deploy"
 BUILD_AT="/home/deploy/app_build"
 
-PRODUCTION_HOSTS="91.226.81.140" 
+PRODUCTION_HOSTS="91.226.81.140"
 PRODUCTION_USER="deploy" 
 DELIVER_TO="/home/deploy/app_release" 
 
