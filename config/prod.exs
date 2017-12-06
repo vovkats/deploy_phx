@@ -15,6 +15,7 @@ use Mix.Config
 # which you typically run after static files are built.
 config :myproject, MyprojectWeb.Endpoint,
   load_from_system_env: true,
+  http: [port: 4000],
   url: [host: "91.226.81.140", port: 80],
   cache_static_manifest: "priv/static/cache_manifest.json",
   server: true,
